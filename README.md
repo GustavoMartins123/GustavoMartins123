@@ -27,4 +27,4 @@ I am a student with no professional experience, but who is struggling to enter t
 
 ## Get in Touch 📬
 
-- [LinkedIn](www.linkedin.com/in/gustavo-henrique-martins)  
+- [LinkedIn](https://linkedin.com/in/gustavo-henrique-martins)  
