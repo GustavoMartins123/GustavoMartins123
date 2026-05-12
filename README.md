@@ -1,30 +1,39 @@
-###
-# Hi there, I'm Gustavo! 👋
+# Gustavo Henrique Martins
 
-![GustavoMartins123's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMartins123&show_icons=true&theme=radical)
+Desenvolvedor de software com foco em Docker, Flutter e Python.
 
-## About Me 🚀
+Trabalho com desenvolvimento de aplicações, APIs, automações e ambientes conteinerizados. Uso Docker como padrão para organizar, executar e padronizar projetos em diferentes stacks.
 
-I am a student with no professional experience, but who is struggling to enter the job market. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I love playing games, and especially knowing how things work, in applications, games, etc...
+Tenho interesse em backend, mobile, integração entre serviços, infraestrutura self-hosted e soluções simples de manter.
 
-- 🌱 Currently learning: C#, .Net, Unity, Java and Kotlin
-- 🌍 Languages: English intermediate and fluent in Portuguese
+## Tecnologias principais
 
-## My Skills 🧠
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF0000?&style=for-the-badge&logo=Java&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+## Também utilizo / estudo
 
-## Featured Projects 💻  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-- [Turn based game](https://github.com/GustavoMartins123/TURN_BASED_RPG)
-- [Puzzle Game](https://github.com/GustavoMartins123/Puzzle_Game)
-- [Tarefas APP](https://github.com/GustavoMartins123/Tarefas_APP)
+## Projetos em destaque
 
-## Get in Touch 📬
+### [supabase-multitenant](https://github.com/GustavoMartins123/supabase-multitenant)
 
-- [LinkedIn](https://linkedin.com/in/gustavo-henrique-martins)  
+Projeto open source para criação e gerenciamento de ambientes Supabase self-hosted multi-tenant.
+
+Usa Docker, PostgreSQL, FastAPI, Flutter Web e OpenResty/Lua para orquestrar e acessar múltiplos projetos Supabase em uma arquitetura isolada por tenant.
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/gustavo-henrique-martins)
