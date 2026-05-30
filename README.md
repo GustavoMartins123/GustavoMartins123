@@ -33,7 +33,3 @@ Tenho interesse em backend, mobile, integração entre serviços e infraestrutur
 Projeto open source para criação e gerenciamento de ambientes Supabase self-hosted multi-tenant.
 
 Usa Docker, PostgreSQL, FastAPI, Flutter Web e OpenResty/Lua para orquestrar e acessar múltiplos projetos Supabase em uma arquitetura isolada por tenant.
-
-## Contato
-
-[LinkedIn](https://linkedin.com/in/gustavo-henrique-martins)
